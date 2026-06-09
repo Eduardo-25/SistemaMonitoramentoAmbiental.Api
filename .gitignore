@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.cache
+*.tmp
+*.temp
+
+# SQLite / banco local
+ *.db
+ *.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
