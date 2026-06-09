@@ -292,3 +292,13 @@ A solução foi pensada para ser escalável e pode evoluir com:
 ---
 
 # 🖼️ Prints do Projeto
+
+<img width="1920" height="758" alt="Swagger" src="https://github.com/user-attachments/assets/05dc572f-9586-4d4c-8ec0-5309d3b66be7" />
+<img width="1918" height="956" alt="Execução do post" src="https://github.com/user-attachments/assets/fcf59355-ab0c-4dc7-a34d-976f2e05fccd" />
+<img width="1920" height="946" alt="Execução do Get" src="https://github.com/user-attachments/assets/f874cf7e-c354-4512-bf12-5e48b853d421" />
+<img width="1481" height="355" alt="Banco SQLite" src="https://github.com/user-attachments/assets/733b328d-b0dd-460d-82b1-8f6b3ae87f89" />
+<img width="1354" height="196" alt="Execução da API" src="https://github.com/user-attachments/assets/d481b082-4443-4a5e-9930-8432e9d7c781" />
+
+
+
+
