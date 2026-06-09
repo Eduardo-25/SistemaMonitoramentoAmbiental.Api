@@ -22,8 +22,8 @@ obj/
 *.temp
 
 # SQLite / banco local
-*.db
-*.sqlite
+# *.db
+# *.sqlite
 
 # OS files
 .DS_Store
